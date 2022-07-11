@@ -5,6 +5,8 @@ The purpose of such a module is just to add some fun flavours to the process of 
 
 Learning with implementation boosts the understanding 💯💯.
 
+This module is created by using Python programming language and also some of the famous libraries like pandas(for dataframe) and numpy(for list and array).
+
 To use this module you can add the gdlearn.py file to the site-packages folder in python.
 
 There are four supervised machine learning algorithms in this module:
